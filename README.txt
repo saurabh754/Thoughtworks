@@ -1,4 +1,4 @@
-This image has been created on aws instance and can be browsed as  http://35.154.23.80:8080/companyNews/a
+This docker image has been created on aws instance and can be browsed as  http://35.154.23.80:8080/companyNews/
 
 
 1) Created a aws EC2 instance with below configurations:
